@@ -1,2 +1,1 @@
-arch user 
-i hate microslop
+arch user, i hate microslop
