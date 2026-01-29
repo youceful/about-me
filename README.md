@@ -1,5 +1,5 @@
 arch user
 what i hate :
-i hate microslop
-what i like
-i like sour candy
+  -microslop
+what i like :
+  -sour candy
