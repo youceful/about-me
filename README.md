@@ -5,3 +5,4 @@ what i hate :
 what i like :
   -sour candy
   -tasting any new things except offals
+  -coffee
